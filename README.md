@@ -18,5 +18,3 @@
 
 [linkedin]: https://linkedin.com/in/charlie-torres-26b004276
 [youtube]: http://www.youtube.com/@SAVAGEGames390
-![image](https://github.com/CharlieTorres84/CharlieTorres84/assets/132946208/c2024e5a-fc81-45a8-baf0-7034e4c751f3)
-![image](https://github.com/CharlieTorres84/CharlieTorres84/assets/132946208/6c8de234-bbb5-4a61-adf1-7d116a384198)
