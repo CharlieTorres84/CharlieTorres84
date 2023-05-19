@@ -15,5 +15,6 @@
 
 [<img align="left" alt="Charlie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SAVAGEGamer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[instagram]: https://www.instagram.com/@SAVAGEGames390
+[instagram]: https://www.instagram.com/@ALPHAMALEAAA0419
 [linkedin]: https://linkedin.com/in/charlie-torres-26b004276
+[youtube]: http://www.youtube.com/@SAVAGEGames390
