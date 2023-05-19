@@ -14,7 +14,6 @@
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Charlie | LinkedIn" width="22px" src="" />][linkedin]
-![image](https://github.com/CharlieTorres84/CharlieTorres84/assets/132946208/9192effb-c519-4bd7-9cc1-6149745fa1c7)
 
 [linkedin]: https://linkedin.com/in/charlie-torres-26b004276
 [youtube]: http://www.youtube.com/@SAVAGEGames390
