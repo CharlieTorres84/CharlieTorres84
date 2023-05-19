@@ -1,5 +1,5 @@
 ### Hi there my name is Charlie
-<h1>Hi, I'm Charlie, an <a href="https://linkedin.com/in/CharlieTorres84">IT Professional</a>☺</h1>
+<h1>Hi, I'm Charlie, an <a href="https://linkedin.com/in/CharlieTorres84">IT Professional</a>☺</h1> and YouTuber
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
