@@ -14,7 +14,7 @@
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Charlie | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img aling="left" alt="Charlie | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/youtube.svg" />][youtube]
+[<img aling="left" alt="Charlie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://linkedin.com/in/charlie-torres-26b004276
-[youtube]: http://www.youtube.com/@SAVAGEGames390
+[instagram]: https://www.instagram.com/SAVAGEGamer
