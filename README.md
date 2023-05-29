@@ -14,7 +14,6 @@
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Charlie | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img aling="left" alt="Charlie | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/facebook.svg" />][facebook]
 
 [linkedin]: https://linkedin.com/in/charlie-torres-26b004276
-[facebook]: https://facebook.com/charlietorres
+
