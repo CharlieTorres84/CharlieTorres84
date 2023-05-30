@@ -13,7 +13,7 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="charlie | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="Charlie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/charlie-torres84
 
