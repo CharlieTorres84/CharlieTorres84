@@ -15,7 +15,6 @@
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/charlie-torres84/-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/charlie-torres84/-dark-mode-only)
-&nbsp;&nbsp;
 
 [linkedin]: https://linkedin.com/in/charlie-torres-26b004276
 
