@@ -13,8 +13,7 @@
 
 <h2>🤳Connect with me:</h2>
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/charlie-torres84/-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/charlie-torres84/-dark-mode-only)
+[<img align="left" alt="charlie | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />[linkedin] 
 
 [linkedin]: https://linkedin.com/in/charlie-torres-26b004276
 
