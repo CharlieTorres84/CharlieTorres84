@@ -15,5 +15,5 @@
 
 [<img align="left" alt="charlie | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg" />][linkedin] 
 
-[linkedin]: https://linkedin.com/in/charlie-torres-26b004276
+[linkedin]: https://linkedin.com/in/charlie-torres84-26b004276
 
